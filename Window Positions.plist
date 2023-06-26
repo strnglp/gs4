@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Arrivals Open</key>
+	<true/>
+	<key>Arrivals Window Position</key>
+	<string>{{1238, 874}, {490, 205}}</string>
+	<key>Death Open</key>
+	<false/>
+	<key>Death Window Position</key>
+	<string>{{386, 378}, {169, 83}}</string>
+	<key>Directions Open</key>
+	<true/>
+	<key>Directions Window Position</key>
+	<string>{216, 989}</string>
+	<key>Familiar Open</key>
+	<false/>
+	<key>Familiar Window Position</key>
+	<string>{{504, 463}, {169, 83}}</string>
+	<key>GM Chat Open</key>
+	<false/>
+	<key>GM Chat Window Position</key>
+	<string>{{480, 403}, {169, 83}}</string>
+	<key>GM Events Open</key>
+	<false/>
+	<key>GM Events Window Position</key>
+	<string>{{385, 440}, {169, 82}}</string>
+	<key>Hands Open</key>
+	<true/>
+	<key>Hands Window Position</key>
+	<string>{{0, 874}, {292, 87}}</string>
+	<key>Health Open</key>
+	<true/>
+	<key>Health Window Position</key>
+	<string>{0, 1014}</string>
+	<key>Host Events Open</key>
+	<false/>
+	<key>Host Events Window Position</key>
+	<string>{{318, 385}, {169, 83}}</string>
+	<key>Injuries Open</key>
+	<true/>
+	<key>Injuries Window Position</key>
+	<string>{75, 978}</string>
+	<key>Large Commands Open</key>
+	<false/>
+	<key>Large Commands Window Position</key>
+	<string>{{174, 115}, {174, 124}}</string>
+	<key>Main Open</key>
+	<true/>
+	<key>Main Window Position</key>
+	<string>{{0, 4}, {1728, 872}}</string>
+	<key>Mana Timer Open</key>
+	<true/>
+	<key>Mana Timer Window Position</key>
+	<string>{215, 962}</string>
+	<key>Room Description Open</key>
+	<false/>
+	<key>Room Description Window Position</key>
+	<string>{{0, 0}, {292, 873}}</string>
+	<key>Roundtime Open</key>
+	<true/>
+	<key>Roundtime Window Position</key>
+	<string>{0, 968}</string>
+	<key>Stance Open</key>
+	<true/>
+	<key>Stance Window Position</key>
+	<string>{216, 1034}</string>
+	<key>Status Open</key>
+	<true/>
+	<key>Status Window Position</key>
+	<string>{149, 978}</string>
+	<key>Thoughts Open</key>
+	<true/>
+	<key>Thoughts Window Position</key>
+	<string>{{293, 874}, {1435, 205}}</string>
+	<key>Voln Thoughts Open</key>
+	<false/>
+	<key>Voln Thoughts Window Position</key>
+	<string>{{497, 234}, {169, 83}}</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Command History Length</key>
+	<integer>50</integer>
+	<key>Command Line Scrolling</key>
+	<true/>
+	<key>Compress Thoughts</key>
+	<false/>
+	<key>Echo Commands</key>
+	<true/>
+	<key>Force Scroll On Command</key>
+	<true/>
+	<key>Hide Palettes</key>
+	<false/>
+	<key>Ignore Repeated Commands</key>
+	<false/>
+	<key>Minimum Command Length</key>
+	<integer>0</integer>
+	<key>One Mana Pulse Protection</key>
+	<false/>
+	<key>Prefix Time</key>
+	<false/>
+	<key>Process Highlights</key>
+	<true/>
+	<key>Process Names</key>
+	<true/>
+	<key>Process Sounds</key>
+	<true/>
+	<key>Process Squelches</key>
+	<true/>
+	<key>Rest Command</key>
+	<string>experience</string>
+	<key>Rest Trigger</key>
+	<string>r</string>
+	<key>Rest Wait Period</key>
+	<integer>60</integer>
+	<key>Script Command Character</key>
+	<string>.</string>
+	<key>Show Prompt</key>
+	<true/>
+	<key>Snap Windows To Grid</key>
+	<true/>
+</dict>
+</plist>
