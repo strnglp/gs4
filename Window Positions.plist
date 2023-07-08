@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Arrivals Open</key>
-	<true/>
+	<false/>
 	<key>Arrivals Window Position</key>
 	<string>{{1238, 874}, {490, 205}}</string>
 	<key>Death Open</key>
@@ -11,7 +11,7 @@
 	<key>Death Window Position</key>
 	<string>{{386, 378}, {169, 83}}</string>
 	<key>Directions Open</key>
-	<true/>
+	<false/>
 	<key>Directions Window Position</key>
 	<string>{216, 989}</string>
 	<key>Familiar Open</key>
@@ -21,59 +21,59 @@
 	<key>GM Chat Open</key>
 	<false/>
 	<key>GM Chat Window Position</key>
-	<string>{{480, 403}, {169, 83}}</string>
+	<string>{{480, 739}, {169, 83}}</string>
 	<key>GM Events Open</key>
 	<false/>
 	<key>GM Events Window Position</key>
-	<string>{{385, 440}, {169, 82}}</string>
+	<string>{{385, 776}, {169, 82}}</string>
 	<key>Hands Open</key>
-	<true/>
+	<false/>
 	<key>Hands Window Position</key>
-	<string>{{0, 874}, {292, 87}}</string>
+	<string>{{0, 890}, {292, 87}}</string>
 	<key>Health Open</key>
-	<true/>
+	<false/>
 	<key>Health Window Position</key>
 	<string>{0, 1014}</string>
 	<key>Host Events Open</key>
 	<false/>
 	<key>Host Events Window Position</key>
-	<string>{{318, 385}, {169, 83}}</string>
+	<string>{{318, 721}, {169, 83}}</string>
 	<key>Injuries Open</key>
-	<true/>
+	<false/>
 	<key>Injuries Window Position</key>
 	<string>{75, 978}</string>
 	<key>Large Commands Open</key>
 	<false/>
 	<key>Large Commands Window Position</key>
-	<string>{{174, 115}, {174, 124}}</string>
+	<string>{{268, 155}, {174, 124}}</string>
 	<key>Main Open</key>
 	<true/>
 	<key>Main Window Position</key>
-	<string>{{0, 4}, {1728, 872}}</string>
+	<string>{{1275, 0}, {1285, 1155}}</string>
 	<key>Mana Timer Open</key>
-	<true/>
+	<false/>
 	<key>Mana Timer Window Position</key>
-	<string>{215, 962}</string>
+	<string>{-1, 989}</string>
 	<key>Room Description Open</key>
 	<false/>
 	<key>Room Description Window Position</key>
 	<string>{{0, 0}, {292, 873}}</string>
 	<key>Roundtime Open</key>
-	<true/>
+	<false/>
 	<key>Roundtime Window Position</key>
-	<string>{0, 968}</string>
+	<string>{216, 987}</string>
 	<key>Stance Open</key>
-	<true/>
+	<false/>
 	<key>Stance Window Position</key>
 	<string>{216, 1034}</string>
 	<key>Status Open</key>
-	<true/>
+	<false/>
 	<key>Status Window Position</key>
-	<string>{149, 978}</string>
+	<string>{149, 981}</string>
 	<key>Thoughts Open</key>
-	<true/>
+	<false/>
 	<key>Thoughts Window Position</key>
-	<string>{{293, 874}, {1435, 205}}</string>
+	<string>{{1099, 820}, {629, 259}}</string>
 	<key>Voln Thoughts Open</key>
 	<false/>
 	<key>Voln Thoughts Window Position</key>

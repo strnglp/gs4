@@ -39,8 +39,8 @@
 	<key>Script Command Character</key>
 	<string>.</string>
 	<key>Show Prompt</key>
-	<true/>
+	<false/>
 	<key>Snap Windows To Grid</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
